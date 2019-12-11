@@ -94,7 +94,7 @@ bindsym $mod+a focus parent
 
 set $tab1 "1: VS Code"
 set $tab2 "2: Firefox"
-set $tab3 "3: Terninal"
+set $tab3 "3: Terminal"
 
 # switch to workspace
 bindsym $mod+1 workspace $tab1
